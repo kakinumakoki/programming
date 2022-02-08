@@ -30,7 +30,6 @@ char m6[3]={'m','n','o'};
 char m7[4]={'p','q','r','s'};
 char m8[3]={'t','u','v'};
 char m9[4]={'w','x','y','z'};
-
 int main()
 {
     int n;
